@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313308726212",
+    "project_id": "authrnphonebalialgoritm",
+    "storage_bucket": "authrnphonebalialgoritm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313308726212:android:25b5f1a8cc3233a7f9da91",
+        "android_client_info": {
+          "package_name": "com.authphonernbalialgoritm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313308726212-1v6fa400v7f81oo9dlu030biaph27jpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.authphonernbalialgoritm",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "313308726212-ioh9bufvv0n09e78252okihh6pur6120.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4QnUys02Jn_wbaxN4XCw4NLholcINqO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313308726212-ioh9bufvv0n09e78252okihh6pur6120.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
